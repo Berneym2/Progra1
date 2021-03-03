@@ -1,0 +1,13 @@
+C:\Users\berne\Documents\hola_mundo\bin\Debug\netcoreapp3.1\hola_mundo.exe
+C:\Users\berne\Documents\hola_mundo\bin\Debug\netcoreapp3.1\hola_mundo.deps.json
+C:\Users\berne\Documents\hola_mundo\bin\Debug\netcoreapp3.1\hola_mundo.runtimeconfig.json
+C:\Users\berne\Documents\hola_mundo\bin\Debug\netcoreapp3.1\hola_mundo.runtimeconfig.dev.json
+C:\Users\berne\Documents\hola_mundo\bin\Debug\netcoreapp3.1\hola_mundo.dll
+C:\Users\berne\Documents\hola_mundo\bin\Debug\netcoreapp3.1\hola_mundo.pdb
+C:\Users\berne\Documents\hola_mundo\obj\Debug\netcoreapp3.1\hola_mundo.csprojAssemblyReference.cache
+C:\Users\berne\Documents\hola_mundo\obj\Debug\netcoreapp3.1\hola_mundo.AssemblyInfoInputs.cache
+C:\Users\berne\Documents\hola_mundo\obj\Debug\netcoreapp3.1\hola_mundo.AssemblyInfo.cs
+C:\Users\berne\Documents\hola_mundo\obj\Debug\netcoreapp3.1\hola_mundo.csproj.CoreCompileInputs.cache
+C:\Users\berne\Documents\hola_mundo\obj\Debug\netcoreapp3.1\hola_mundo.dll
+C:\Users\berne\Documents\hola_mundo\obj\Debug\netcoreapp3.1\hola_mundo.pdb
+C:\Users\berne\Documents\hola_mundo\obj\Debug\netcoreapp3.1\hola_mundo.genruntimeconfig.cache
